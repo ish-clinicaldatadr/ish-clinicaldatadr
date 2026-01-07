@@ -1,7 +1,7 @@
 ## Hi there 👋 I’m Dr Ishwarya
 
 
-Physician (MBBS, DNB Pediatrics) transitioning into **Healthcare Data Analytics**, combining clinical expertise with data-driven insights to support population health, utilization analysis, and healthcare decision-making.
+Physician (MBBS, DNB Pediatrics) with a strong foundation in **Healthcare Data Analytics**, focused on population health, utilization analysis, and data-driven healthcare decision-making.
 
 
 ### 🔍 What I Work On
@@ -12,10 +12,10 @@ Physician (MBBS, DNB Pediatrics) transitioning into **Healthcare Data Analytics*
 
 
 ### 🛠 Tools & Skills
+- Healthcare data analysis
 - SQL (PostgreSQL, SQLite)
 - Tableau
 - Power BI
-- Healthcare data analysis
 - Data storytelling & visualization
 - Public health & claims-based datasets
 
