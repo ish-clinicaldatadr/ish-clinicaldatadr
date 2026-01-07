@@ -1,16 +1,49 @@
-## Hi there 👋
+## Hi there 👋 I’m Dr Ishwarya
 
-<!--
-**ish-clinicaldatadr/ish-clinicaldatadr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Physician (MBBS, DNB Pediatrics) transitioning into **Healthcare Data Analytics**, combining clinical expertise with data-driven insights to support population health, utilization analysis, and healthcare decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🔍 What I Work On
+- Healthcare & public health datasets  
+- SQL-based data exploration, cleaning, and aggregation  
+- Interactive dashboards using Tableau and Power BI  
+- Translating clinical and operational questions into actionable data insights  
+
+
+### 🛠 Tools & Skills
+- SQL (PostgreSQL, SQLite)
+- Tableau
+- Power BI
+- Healthcare data analysis
+- Data storytelling & visualization
+- Public health & claims-based datasets
+
+
+### 📊 Featured Projects
+- **CDC Obesity Trends Dashboard (Tableau)**  
+  Analysis of obesity trends using CDC public health data with a focus on disparities and temporal patterns.
+
+- **Medicare Utilization & Cost Analysis (Power BI)**  
+  Dashboard exploring utilization patterns and cost drivers using publicly available Medicare data.
+
+- **SQL for Data Science — UC Davis**  
+  Applied SQL queries for data exploration, cleaning, aggregation, and analysis-ready views.
+
+
+### 🎓 Medical & Academic Background
+- MBBS, DNB Pediatrics  
+- USMLE Step 1 Pass | USMLE Step 2: 256 | OET Pass  
+
+
+### 📜 Healthcare Data & Compliance Training
+- **HIPAA Compliance** — University of Pennsylvania  
+- **SQL for Data Science** — University of California, Davis  
+- **Data & EHR Systems** — Johns Hopkins University  
+
+*(Certifications focused on healthcare data, compliance, and real-world analytics applications.)*
+
+
+### 📫 Contact
+- LinkedIn: <www.linkedin.com/in/ishwaryachandra>
+- Email: <drishwaryachandra@gmail.com>
