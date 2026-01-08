@@ -5,10 +5,11 @@ Physician (MBBS, DNB Pediatrics) with a strong foundation in **Healthcare Data A
 
 
 ### 🔍 What I Work On
-- Healthcare & public health datasets  
-- SQL-based data exploration, cleaning, and aggregation  
-- Interactive dashboards using Tableau and Power BI  
-- Translating clinical and operational questions into actionable data insights  
+- Healthcare & public health datasets
+- SQL-based data exploration, cleaning, and aggregation
+- Data analysis using Excel (pivot tables, summaries, validation)
+- Interactive dashboards using Tableau and Power BI
+- Translating clinical and operational questions into actionable data insights
 
 
 ### 🛠 Tools & Skills
@@ -22,14 +23,37 @@ Physician (MBBS, DNB Pediatrics) with a strong foundation in **Healthcare Data A
 
 
 ### 📊 Featured Projects
-- **CDC Obesity Trends Dashboard (Tableau)**  
-  Analysis of obesity trends using CDC public health data with a focus on disparities and temporal patterns.
 
-- **Medicare Utilization & Cost Analysis (Power BI)**  
-  Dashboard exploring utilization patterns and cost drivers using publicly available Medicare data.
+#### 🟦 Medicare Inpatient Utilization & Spending (Power BI)
+**Healthcare utilization, spending, and patient burden analysis (2016–2021)**  
+- Analyzed Medicare inpatient admissions, length of stay, spending, and cost-sharing trends  
+- Focus on IPPS hospitals, special-category stays, and geographic utilization patterns  
+- Built interactive Power BI dashboards for operational and policy-oriented insights  
 
-- **SQL for Data Science — UC Davis**  
-  Applied SQL queries for data exploration, cleaning, aggregation, and analysis-ready views.
+🔗 Repository: https://github.com/ish-clinicaldatadr/powerbi-medicare-utilization-analysis
+
+
+#### 🟩 U.S. Adult Obesity Trends (Tableau)
+**Population health analysis using CDC BRFSS data**  
+- Explored obesity trends over time and disparities by age, sex, income, and education  
+- Built interactive Tableau dashboards with demographic filters  
+- Focused on epidemiological interpretation rather than causal claims  
+
+🔗 Repository: https://github.com/ish-clinicaldatadr/tableau-cdc-obesity-trends
+
+
+#### 🟨 U.S. Agriculture Production Analysis (SQL)
+**Relational SQL analysis across multi-commodity datasets**  
+- Performed joins, aggregations, and subqueries across production tables  
+- Identified missing vs zero-value records using LEFT JOIN patterns  
+- Demonstrated cross-commodity and time-based analysis using SQLite  
+
+🔗 Repository: https://github.com/ish-clinicaldatadr/sql-us-agriculture-production-analysis
+
+
+### 🧑‍⚕️ Clinical Background & Experience
+Physician with **4+ years of pediatric clinical experience in India**, including inpatient, outpatient, and emergency care.  
+Hands-on experience with **EHR documentation, clinical data workflows, and quality-focused charting**, now applied to healthcare analytics and visualization.
 
 
 ### 🎓 Medical & Academic Background
@@ -40,11 +64,9 @@ Physician (MBBS, DNB Pediatrics) with a strong foundation in **Healthcare Data A
 ### 📜 Healthcare Data & Compliance Training
 - **HIPAA Compliance** — University of Pennsylvania  
 - **SQL for Data Science** — University of California, Davis  
-- **Data & EHR Systems** — Johns Hopkins University  
+- **Data & EHR Systems** — Johns Hopkins University
+- **Microsoft Power BI Data Analyst (PL-300)** — *In Progress*  
 
-*(Certifications focused on healthcare data, compliance, and real-world analytics applications.)*
 
-
-### 📫 Contact
-- LinkedIn: <www.linkedin.com/in/ishwaryachandra>
-- Email: <drishwaryachandra@gmail.com>
+### 📫 Let’s Connect
+I’m actively building healthcare-focused analytics projects and exploring opportunities in healthcare data analysis, population health, and utilization analytics.
