@@ -18,6 +18,7 @@ Physician (MBBS, DNB Pediatrics) with a strong foundation in **Healthcare Data A
 - Power BI
 - Data storytelling & visualization
 - Public health & claims-based datasets
+- Microsoft Excel (VLOOKUP & Pivot Tables)
 
 
 ### 📊 Featured Projects
